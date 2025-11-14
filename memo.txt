@@ -1,3 +1,6 @@
 git branch -M main　
 git push -u origin main
 ↑　リモートローカルブランチなしからリモート登録して初回pushするながれ
+
+Another git process seems to be running in this repositoryで進めない場合
+→git内のindex lockを削除したら治る
