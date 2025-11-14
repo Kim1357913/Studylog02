@@ -4,3 +4,6 @@ git push -u origin main
 
 Another git process seems to be running in this repositoryで進めない場合
 →git内のindex lockを削除したら治る
+
+isuue3説明
+
