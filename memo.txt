@@ -1,3 +1,4 @@
 git branch -M main　
 git push -u origin main
 ↑　リモートローカルブランチなしからリモート登録して初回pushするながれ
+isuue3説明
