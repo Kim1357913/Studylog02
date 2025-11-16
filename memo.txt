@@ -7,3 +7,4 @@ Another git process seems to be running in this repositoryで進めない場合
 
 isuue3説明
 
+ 
