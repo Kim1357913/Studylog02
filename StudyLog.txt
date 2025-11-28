@@ -3,16 +3,16 @@ void int はメソッドの戻り値のデータ型
  public  static は修飾子
 修飾子はメインメソッドの戦闘に必ず記述
 パッケージ名を含めたクラス名のことを完全修飾名
-
 まとめ
 1クラスに対し1メインメソッド
 メインメソッドは修飾子public staticを付けることでほかのクラスからアクセス可能になる
 ないとエラー起きる
-
 11/18 3h java復習、エディター選び
 int,void,public static,String,String[],Syetem.out.printIn,
-
 11/19 1h vscode java実行まで
-
 11/22 3h java pythonインストール
 javaはクラス名をファイル名にしないとエラーがでる　数字の因数指定はvalとかrags、sum
+11/23 2h JavaDrive:文字リテラル半分まで（パッケージエラーの対処のため途中まで） python フォルダ作成
+11/24 2h java 文字リテラル　変数データ型
+11/25 3h java 変数データ型　python 基礎
+11/28 3.5h java 演算子　python 文字リテラル
